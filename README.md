@@ -15,7 +15,7 @@
 
 # Building and running the executable
 
-* Download all files in the repository, including the empty file Output
+* Download all files in the repository, and extract, including the empty file Output
 * Run the compilation shell script _CompileCalculator.sh_. Any errors should be flagged.
 * The script should generate an executable computeFromMorseFile.run 
   * Run wit ./computeFromMorseFile.run MorseFile Stage SimplifyBool
