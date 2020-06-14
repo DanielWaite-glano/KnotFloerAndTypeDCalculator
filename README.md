@@ -1,4 +1,5 @@
 # Calculator of Type _D_ structures and knot Floer homology for three strand pretzel knots
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3893727.svg)](https://doi.org/10.5281/zenodo.3893727)
 
 * The following is written by Daniel Waite, during the study for his Ph.D. in mathematics at the University of Glasgow.
 * The code is an adaptation of code written by P. Ozsvath and Z. Szabo, found at the link below, which calculates their algebraic knot invariant recently proven to be equivalent to classical knot Floer homology. 
