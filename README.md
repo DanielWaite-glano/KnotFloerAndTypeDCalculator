@@ -2,7 +2,7 @@
 
 * The following is written by Daniel Waite, during the study for his Ph.D. in mathematics at the University of Glasgow.
 * The code is an adaptation of code written by P. Ozsvath and Z. Szabo, found at the link below, which calculates their algebraic knot invariant recently proven to be equivalent to classical knot Floer homology. 
- + https://web.math.princeton.edu/~szabo/HFKcalc.html
+ * https://web.math.princeton.edu/~szabo/HFKcalc.html
 * This is specifically written for the calculation of this bordered invariant for three-strand pretzel knots, and the extraction of Type _D_ structures at any intermediate point in their algorithm.
 * Unlike Ozsvath-Szabo's original code, the Morse Diagram for which the invariants are to be calculated must be procided, rather than a determination of the Morse diagram from a PD-code.
 * Since this code is written for the purpose of computations for three strand pretzel knots, the girth of the diagram is hard-coded.
